@@ -1,0 +1,39 @@
+body {
+  background-color: #000;
+  color: #fff;
+  font-family: 'Roboto Mono', monospace;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  text-align: center;
+  padding: 2rem;
+  background: linear-gradient(180deg, #111, #000);
+  box-shadow: 0 0 10px #f00;
+}
+
+button, .panel {
+  background-color: #222;
+  color: #f00;
+  border: 2px solid #f00;
+  padding: 10px 20px;
+  margin: 10px;
+  cursor: pointer;
+  font-family: 'Roboto Mono', monospace;
+}
+
+button:hover, .panel:hover {
+  background-color: #330000;
+}
+
+#eye {
+  width: 200px;
+  margin: 2rem auto;
+  animation: blink 2s infinite;
+}
+
+@keyframes blink {
+  0%, 20%, 100% { opacity: 1; }
+  10% { opacity: 0.2; }
+}
