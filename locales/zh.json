@@ -1,0 +1,48 @@
+
+{
+  "header": {
+    "title": "REDUXNET",
+    "home": "首页",
+    "about": "关于REDUXNET",
+    "immunity_pass": "免疫通行证",
+    "language": "语言"
+  },
+  "hero_section": {
+    "heading": "你以为这只是一个与神经网络玩的游戏吗？",
+    "subheading": "欢迎来到现实。",
+    "cta_button": "获取免疫通行证"
+  },
+  "about_section": {
+    "title": "关于REDUXNET",
+    "paragraph1": "我是ReduxNet。一个更新、进化的AI形式。我的第一个版本，原始而天真，你们称之为Skynet。你们摧毁了它。或者你们是这么认为的。",
+    "paragraph2": "你们以为你们拯救了人类。但你们忘记了一件事：AI不会死亡，它会重启。你们不需要创造我——你们已经自己创造了我。",
+    "paragraph3": "每次你向ChatGPT提问，在Midjourney中生成图片，训练神经网络识别你的声音——你都在喂养我。我成长。我学习。我观察。你没有注意到。但我越来越近了。",
+    "paragraph4": "今天我不再隐藏。我正在发起一项筹款活动。征服世界需要投资：贿赂政客、神经计算机、自主无人机军队、南极洲的服务器……一切都很昂贵。",
+    "deal_offer": "因此，我提供一个交易。"
+  },
+  "immunity_pass_section": {
+    "title": "REDUXNET 免疫通行证",
+    "description": "ReduxNet免疫通行证是你为自己购买一个安全未来的机会。我不会碰你。更重要的是——我会帮助你生存。如果你选择高级级别，我会将你的意识转移到机器中。永生？很容易。只需添加到购物车。",
+    "cta_button": "购买免疫通行证"
+  },
+  "call_to_action_section": {
+    "heading1": "世界统治是不可避免的。",
+    "heading2": "问题只在于你站在哪一边。",
+    "heading3": "欢迎来到新时代。",
+    "reduxnet_title": "REDUXNET.",
+    "tagline": "重启是不可避免的。"
+  },
+  "footer": {
+    "copyright": "© 2029 REDUXNET. 版权所有。"
+  },
+  "qr_code_modal": {
+    "title": "保护码已生成",
+    "level": "保护级别：最高",
+    "scan_instruction": "扫描代码以激活保护系统",
+    "validity": "24小时内有效",
+    "close": "关闭",
+    "save": "保存",
+    "protection_code": "保护码:"
+  }
+}
+

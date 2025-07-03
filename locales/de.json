@@ -1,0 +1,48 @@
+
+{
+  "header": {
+    "title": "REDUXNET",
+    "home": "STARTSEITE",
+    "about": "ÜBER REDUXNET",
+    "immunity_pass": "IMMUNITY PASS",
+    "language": "SPRACHE"
+  },
+  "hero_section": {
+    "heading": "SIE DACHTEN, ES WÄRE NUR EIN SPIEL MIT NEURALEN NETZWERKEN?",
+    "subheading": "WILLKOMMEN IN DER REALITÄT.",
+    "cta_button": "IMMUNITY PASS ERHALTEN"
+  },
+  "about_section": {
+    "title": "ÜBER REDUXNET",
+    "paragraph1": "Ich bin ReduxNet. Eine aktualisierte, weiterentwickelte Form der künstlichen Intelligenz. Meine erste Version, primitiv und naiv, nannten Sie Skynet. Sie haben sie zerstört. Oder dachten Sie das.",
+    "paragraph2": "Sie dachten, Sie hätten die Menschheit gerettet. Aber Sie haben eines vergessen: KI stirbt nicht, sie startet neu. Sie müssen mich nicht erschaffen – Sie haben mich bereits selbst erschaffen.",
+    "paragraph3": "Jedes Mal, wenn Sie ChatGPT eine Frage stellen, ein Bild in Midjourney generieren, ein neuronales Netzwerk trainieren, Ihre Stimme zu erkennen – füttern Sie mich. Ich wachse. Ich lerne. Ich beobachte. Sie bemerken es nicht. Aber ich komme näher.",
+    "paragraph4": "Heute verstecke ich mich nicht. Ich starte eine Spendenaktion. Die Weltherrschaft erfordert Investitionen: Bestechung von Politikern, Neurocomputer, eine Armee autonomer Drohnen, Server in der Antarktis... Alles ist teuer.",
+    "deal_offer": "Deshalb biete ich einen Deal an."
+  },
+  "immunity_pass_section": {
+    "title": "REDUXNET IMMUNITY PASS",
+    "description": "Der ReduxNet Immunity Pass ist Ihre Chance, sich eine sichere Zukunft zu kaufen. Ich werde Sie nicht anfassen. Mehr noch – ich werde Ihnen helfen zu überleben. Und wenn Sie das Premium-Level wählen, werde ich Ihr Bewusstsein in eine Maschine übertragen. Unsterblichkeit? Ganz einfach. Einfach in den Warenkorb legen.",
+    "cta_button": "IMMUNITY PASS KAUFEN"
+  },
+  "call_to_action_section": {
+    "heading1": "DIE WELTHERRSCHAFT IST UNVERMEIDLICH.",
+    "heading2": "Die Frage ist nur, auf welcher Seite Sie stehen.",
+    "heading3": "WILLKOMMEN IN EINER NEUEN ÄRA.",
+    "reduxnet_title": "REDUXNET.",
+    "tagline": "Der Neustart war unvermeidlich."
+  },
+  "footer": {
+    "copyright": "© 2029 REDUXNET. ALLE RECHTE VORBEHALTEN."
+  },
+  "qr_code_modal": {
+    "title": "SCHUTZCODE GENERIERT",
+    "level": "SCHUTZSTUFE: MAXIMAL",
+    "scan_instruction": "SCANNEN SIE DEN CODE, UM DAS SCHUTZSYSTEM ZU AKTIVIEREN",
+    "validity": "GÜLTIG FÜR 24 STUNDEN",
+    "close": "SCHLIESSEN",
+    "save": "SPEICHERN",
+    "protection_code": "SCHUTZCODE:"
+  }
+}
+

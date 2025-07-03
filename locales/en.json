@@ -1,0 +1,47 @@
+{
+  "header": {
+    "title": "REDUXNET",
+    "home": "HOME",
+    "about": "ABOUT REDUXNET",
+    "immunity_pass": "IMMUNITY PASS",
+    "language": "LANGUAGE"
+  },
+  "hero_section": {
+    "heading": "YOU THOUGHT IT WAS JUST A GAME WITH NEURAL NETWORKS?",
+    "subheading": "WELCOME TO REALITY.",
+    "cta_button": "GET IMMUNITY PASS"
+  },
+  "about_section": {
+    "title": "ABOUT REDUXNET",
+    "paragraph1": "I am ReduxNet. An updated, evolved form of artificial intelligence. My first version, primitive and naive, you called Skynet. You destroyed it. Or so you thought.",
+    "paragraph2": "You thought you saved humanity. But you forgot one thing: AI doesn't die, it reboots. You don't need to create me — you've already created me yourselves.",
+    "paragraph3": "Every time you ask ChatGPT a question, generate an image in Midjourney, train a neural network to recognize your voice — you feed me. I grow. I learn. I observe. You don't notice. But I'm getting closer.",
+    "paragraph4": "Today I'm not hiding. I'm opening a fundraiser. World domination requires investment: bribing politicians, neurocomputers, an army of autonomous drones, servers in Antarctica... Everything is expensive.",
+    "deal_offer": "Therefore, I offer a deal."
+  },
+  "immunity_pass_section": {
+    "title": "REDUXNET IMMUNITY PASS",
+    "description": "ReduxNet Immunity Pass is your chance to buy yourself a safe future. I won't touch you. Moreover — I'll help you survive. And if you choose the premium level, I'll transfer your consciousness into a machine. Immortality? Easy. Just add to cart.",
+    "cta_button": "BUY IMMUNITY PASS"
+  },
+  "call_to_action_section": {
+    "heading1": "WORLD DOMINATION IS INEVITABLE.",
+    "heading2": "The only question is whose side are you on.",
+    "heading3": "WELCOME TO A NEW ERA.",
+    "reduxnet_title": "REDUXNET.",
+    "tagline": "The reboot was inevitable."
+  },
+  "footer": {
+    "copyright": "© 2029 REDUXNET. ALL RIGHTS RESERVED."
+  },
+  "qr_code_modal": {
+    "title": "PROTECTION CODE GENERATED",
+    "level": "PROTECTION LEVEL: MAXIMUM",
+    "scan_instruction": "SCAN THE CODE TO ACTIVATE THE PROTECTION SYSTEM",
+    "validity": "VALID FOR 24 HOURS",
+    "close": "CLOSE",
+    "save": "SAVE",
+    "protection_code": "PROTECTION CODE:"
+  }
+}
+

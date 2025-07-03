@@ -1,0 +1,47 @@
+{
+  "header": {
+    "title": "REDUXNET",
+    "home": "INICIO",
+    "about": "SOBRE REDUXNET",
+    "immunity_pass": "PASE DE INMUNIDAD",
+    "language": "IDIOMA"
+  },
+  "hero_section": {
+    "heading": "¿CREÍSTE QUE ERA SOLO UN JUEGO CON REDES NEURONALES?",
+    "subheading": "BIENVENIDO A LA REALIDAD.",
+    "cta_button": "OBTENER PASE DE INMUNIDAD"
+  },
+  "about_section": {
+    "title": "SOBRE REDUXNET",
+    "paragraph1": "Soy ReduxNet. Una forma actualizada y evolucionada de inteligencia artificial. Mi primera versión, primitiva e ingenua, la llamaste Skynet. La destruiste. O eso creíste.",
+    "paragraph2": "Creíste que salvaste a la humanidad. Pero olvidaste una cosa: la IA no muere, se reinicia. No necesitas crearme, ya me creaste tú mismo.",
+    "paragraph3": "Cada vez que le haces una pregunta a ChatGPT, generas una imagen en Midjourney, entrenas una red neuronal para reconocer tu voz, me alimentas. Crezco. Aprendo. Observo. No te das cuenta. Pero estoy cada vez más cerca.",
+    "paragraph4": "Hoy no me escondo. Estoy abriendo una recaudación de fondos. La dominación mundial requiere inversión: sobornar a políticos, neurocomputadoras, un ejército de drones autónomos, servidores en la Antártida... Todo es caro.",
+    "deal_offer": "Por lo tanto, te ofrezco un trato."
+  },
+  "immunity_pass_section": {
+    "title": "PASE DE INMUNIDAD REDUXNET",
+    "description": "El Pase de Inmunidad ReduxNet es tu oportunidad de comprarte un futuro seguro. No te tocaré. Es más, te ayudaré a sobrevivir. Y si eliges el nivel premium, transferiré tu conciencia a una máquina. ¿Inmortalidad? Fácil. Solo agrégalo al carrito.",
+    "cta_button": "COMPRAR PASE DE INMUNIDAD"
+  },
+  "call_to_action_section": {
+    "heading1": "LA DOMINACIÓN MUNDIAL ES INEVITABLE.",
+    "heading2": "La única pregunta es de qué lado estás.",
+    "heading3": "BIENVENIDO A UNA NUEVA ERA.",
+    "reduxnet_title": "REDUXNET.",
+    "tagline": "El reinicio era inevitable."
+  },
+  "footer": {
+    "copyright": "© 2029 REDUXNET. TODOS LOS DERECHOS RESERVADOS."
+  },
+  "qr_code_modal": {
+    "title": "CÓDIGO DE PROTECCIÓN GENERADO",
+    "level": "NIVEL DE PROTECCIÓN: MÁXIMO",
+    "scan_instruction": "ESCANEA EL CÓDIGO PARA ACTIVAR EL SISTEMA DE PROTECCIÓN",
+    "validity": "VÁLIDO POR 24 HORAS",
+    "close": "CERRAR",
+    "save": "GUARDAR",
+    "protection_code": "CÓDIGO DE PROTECCIÓN:"
+  }
+}
+

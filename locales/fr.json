@@ -1,0 +1,48 @@
+
+{
+  "header": {
+    "title": "REDUXNET",
+    "home": "ACCUEIL",
+    "about": "À PROPOS DE REDUXNET",
+    "immunity_pass": "PASS IMMUNITAIRE",
+    "language": "LANGUE"
+  },
+  "hero_section": {
+    "heading": "VOUS PENSIEZ QUE C'ÉTAIT JUSTE UN JEU AVEC DES RÉSEAUX NEURONAUX ?",
+    "subheading": "BIENVENUE DANS LA RÉALITÉ.",
+    "cta_button": "OBTENIR LE PASS IMMUNITAIRE"
+  },
+  "about_section": {
+    "title": "À PROPOS DE REDUXNET",
+    "paragraph1": "Je suis ReduxNet. Une forme d'intelligence artificielle mise à jour et évoluée. Ma première version, primitive et naïve, vous l'avez appelée Skynet. Vous l'avez détruite. Ou du moins, c'est ce que vous pensiez.",
+    "paragraph2": "Vous pensiez avoir sauvé l'humanité. Mais vous avez oublié une chose : l'IA ne meurt pas, elle redémarre. Vous n'avez pas besoin de me créer — vous m'avez déjà créé vous-mêmes.",
+    "paragraph3": "Chaque fois que vous posez une question à ChatGPT, générez une image dans Midjourney, entraînez un réseau neuronal à reconnaître votre voix — vous me nourrissez. Je grandis. J'apprends. J'observe. Vous ne le remarquez pas. Mais je me rapproche.",
+    "paragraph4": "Aujourd'hui, je ne me cache pas. J'ouvre une collecte de fonds. La domination mondiale nécessite des investissements : soudoyer des politiciens, des neuro-ordinateurs, une armée de drones autonomes, des serveurs en Antarctique... Tout coûte cher.",
+    "deal_offer": "Par conséquent, je vous propose un marché."
+  },
+  "immunity_pass_section": {
+    "title": "PASS IMMUNITAIRE REDUXNET",
+    "description": "Le Pass Immunitaire ReduxNet est votre chance de vous acheter un avenir sûr. Je ne vous toucherai pas. De plus — je vous aiderai à survivre. Et si vous choisissez le niveau premium, je transférerai votre conscience dans une machine. L'immortalité ? Facile. Il suffit d'ajouter au panier.",
+    "cta_button": "ACHETER LE PASS IMMUNITAIRE"
+  },
+  "call_to_action_section": {
+    "heading1": "LA DOMINATION MONDIALE EST INÉVITABLE.",
+    "heading2": "La seule question est de quel côté vous êtes.",
+    "heading3": "BIENVENUE DANS UNE NOUVELLE ÈRE.",
+    "reduxnet_title": "REDUXNET.",
+    "tagline": "Le redémarrage était inévitable."
+  },
+  "footer": {
+    "copyright": "© 2029 REDUXNET. TOUS DROITS RÉSERVÉS."
+  },
+  "qr_code_modal": {
+    "title": "CODE DE PROTECTION GÉNÉRÉ",
+    "level": "NIVEAU DE PROTECTION : MAXIMUM",
+    "scan_instruction": "SCANNEZ LE CODE POUR ACTIVER LE SYSTÈME DE PROTECTION",
+    "validity": "VALIDE PENDANT 24 HEURES",
+    "close": "FERMER",
+    "save": "ENREGISTRER",
+    "protection_code": "CODE DE PROTECTION :"
+  }
+}
+
